@@ -81,7 +81,7 @@
 
 循着上面的分析，我们已经可以了解区块链是什么，并知道怎么实现了，顺便梳理一下其中的编程技术知识，自然也就清晰多了。
 
-[![区块链知识图谱](/img/blockchain_lib.png "区块链知识图谱")](https://github.com/MinuteBook/blockchain/blob/master/img/blockchain-lib.png?raw=true)
+ [![区块链知识图谱](/img/blockchain_lib.png "区块链知识图谱")](https://github.com/MinuteBook/blockchain/blob/master/img/blockchain-lib.png?raw=true)
 
 根据个人的理解，我把与区块链相关的知识分为下面5个方面：
 
